@@ -1,4 +1,4 @@
-## Sql Injection.png
+## SQL Injection.png
 <img width="1522" height="911" alt="Screenshot 2026-04-28 at 10 20 25 PM" src="https://github.com/user-attachments/assets/7e5ace21-07f8-499f-9ee2-8937c2dedf24" />
 
 ## burp_intercept.png
