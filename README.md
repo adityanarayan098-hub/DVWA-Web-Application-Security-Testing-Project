@@ -161,7 +161,8 @@ Automated reporting
 
 This project was conducted in a legal, local lab environment using DVWA for educational and ethical learning purposes only.
 
-## 👨‍💻 Contact
+## 📬 Contact
 
-Aditya Narayan
-Cybersecurity Learner | Ethical Hacking | SOC Analyst Aspirant
+- GitHub: Aditya Narayan  
+
+- LinkedIn: www.linkedin.com/in/adityanarayan2990
