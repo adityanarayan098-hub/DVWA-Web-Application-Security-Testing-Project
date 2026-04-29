@@ -37,21 +37,35 @@ This project is ideal for beginner cybersecurity learners and showcases practica
 
 Tested improper input sanitization in database queries.
 
-## Reflected Cross-Site Scripting (XSS) 
+**💉 Payload Example**
+
+sql
+1' OR '1'='1
+
+**Result**
+
+Successfully manipulated backend query logic and retrieved multiple records.
+
+![SQL Injection] 
+
+## 2️⃣ Reflected Cross-Site Scripting (XSS) 
 
 **📌 Description**
 
 Injected JavaScript into reflected user input fields.
 
+**💉 Payload Example**
+
 **HTML**
 
 <script>alert('XSS')</script>
+
 
 **Result**
 
 JavaScript executed successfully in browser popup.
 
-![XSS Popup](Screenshots/xss_popup.png)
+![XSS Popup] <img width="1566" height="955" alt="Screenshot 2026-04-28 at 10 31 28 PM" src="https://github.com/user-attachments/assets/2e817603-07d7-4496-a03f-f6383e447a9c" />
 
 
 
