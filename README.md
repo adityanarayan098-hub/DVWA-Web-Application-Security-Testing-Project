@@ -34,11 +34,24 @@ This project is ideal for beginner cybersecurity learners and showcases practica
 ### 1️⃣ SQL Injection
 
 **Description:**
+
 Tested improper input sanitization in database queries.
 
-**Payload Example:**
+## Reflected Cross-Site Scripting (XSS) 
 
-```sql
-1' OR '1'='1
+**📌 Description**
 
-**Payload Example:**
+Injected JavaScript into reflected user input fields.
+
+**HTML**
+
+<script>alert('XSS')</script>
+
+**Result**
+
+JavaScript executed successfully in browser popup.
+
+![XSS Popup](Screenshots/xss_popup.png)
+
+
+
