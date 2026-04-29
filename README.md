@@ -68,4 +68,18 @@ JavaScript executed successfully in browser popup.
 [XSS Popup] <img width="1566" height="955" alt="Screenshot 2026-04-28 at 10 31 28 PM" src="https://github.com/user-attachments/assets/2e817603-07d7-4496-a03f-f6383e447a9c" />
 
 
+## 3️⃣ Command Injection
 
+**📌 Description**
+
+Tested insecure server-side command execution through user input.
+
+**💉 Payload Example**
+
+127.0.0.1 && whoami
+
+**Result**
+
+Additional system command executed successfully.
+
+[Command Injection]
