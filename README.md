@@ -60,7 +60,6 @@ Injected JavaScript into reflected user input fields.
 
 <script>alert('XSS')</script>
 
-
 **Result**
 
 JavaScript executed successfully in browser popup.
@@ -82,4 +81,18 @@ Tested insecure server-side command execution through user input.
 
 Additional system command executed successfully.
 
-[Command Injection]
+[Command Injection] <img width="1296" height="673" alt="Screenshot 2026-04-28 at 10 55 58 PM" src="https://github.com/user-attachments/assets/0b36f33c-e052-49b0-866b-f3dc7dea95b6" />
+
+## 4️⃣ HTTP Request Interception
+
+🛠️ Tool Used
+
+Burp Suite
+
+**📌 Description**
+
+Captured and analyzed HTTP requests between browser and DVWA.
+
+**Result**
+
+[Burp Intercept] 
