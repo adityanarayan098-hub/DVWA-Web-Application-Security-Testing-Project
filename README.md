@@ -120,6 +120,8 @@ Captured and analyzed HTTP requests between browser and DVWA.
 
 [Burp Intercept] <img width="1372" height="615" alt="Screenshot 2026-04-28 at 10 44 28 PM" src="https://github.com/user-attachments/assets/70663adf-81cf-400c-9518-e607993c97bc" />
 
+<img width="1341" height="720" alt="Screenshot 2026-04-28 at 10 43 59 PM" src="https://github.com/user-attachments/assets/c7be7830-f778-45a1-97b5-d444bee1bc91" />
+
 ## 🔐 Security Recommendations
 
 **SQL Injection Prevention**
