@@ -49,6 +49,8 @@ This setting was used to practice:
 
 Successfully configured DVWA to Low security mode and performed hands-on vulnerability testing.
 
+[DVWA Security Level Low] <img width="1295" height="756" alt="Screenshot 2026-04-29 at 12 28 33 PM" src="https://github.com/user-attachments/assets/7aec2e27-04aa-4faf-aa36-62ef111fcd36" />
+
 ## 🧪 Vulnerabilities Tested
 
 ### 2️⃣ SQL Injection
