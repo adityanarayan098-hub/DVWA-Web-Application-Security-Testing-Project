@@ -95,4 +95,73 @@ Captured and analyzed HTTP requests between browser and DVWA.
 
 **Result**
 
-[Burp Intercept] 
+[Burp Intercept] <img width="1372" height="615" alt="Screenshot 2026-04-28 at 10 44 28 PM" src="https://github.com/user-attachments/assets/70663adf-81cf-400c-9518-e607993c97bc" />
+
+## 🔐 Security Recommendations
+
+**SQL Injection Prevention**
+
+Use parameterized queries
+
+Validate input
+
+Use least privilege DB accounts
+
+**XSS Prevention**
+
+Output encoding
+
+Input sanitization
+
+Implement Content Security Policy (CSP)
+
+**Command Injection Prevention**
+
+Avoid shell execution
+
+Sanitize inputs
+
+Use allowlists
+
+Run apps with least privileges
+
+## 📚 Skills Gained
+
+Web Application Security Testing
+
+Vulnerability Assessment
+
+Manual Penetration Testing
+
+Burp Suite Usage
+
+HTTP Traffic Analysis
+
+Security Reporting
+
+OWASP Awareness
+
+## 💼 Resume Value
+
+Performed hands-on web application security testing using DVWA and Burp Suite. Identified SQL Injection, XSS, and Command Injection vulnerabilities with remediation recommendations.
+
+## 🚀 Future Enhancements
+
+Add OWASP Juice Shop testing
+
+Use OWASP ZAP scanner
+
+Session management testing
+
+Authentication bypass testing
+
+Automated reporting
+
+## ⚠️ Disclaimer
+
+This project was conducted in a legal, local lab environment using DVWA for educational and ethical learning purposes only.
+
+## 👨‍💻 Contact
+
+Aditya Narayan
+Cybersecurity Learner | Ethical Hacking | SOC Analyst Aspirant
