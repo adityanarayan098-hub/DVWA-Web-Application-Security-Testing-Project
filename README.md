@@ -29,6 +29,8 @@ This project is ideal for beginner cybersecurity learners and showcases practica
 
 ---
 
+
+
 ## 🧪 Vulnerabilities Tested
 
 ### 1️⃣ SQL Injection
